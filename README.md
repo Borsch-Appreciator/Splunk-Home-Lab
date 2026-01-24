@@ -1,4 +1,4 @@
-# SOC Home Lab
+# Splunk Home Lab
 
 This repository documents a hands-on **home SOC lab** built using Splunk Enterprise and Linux endpoints. The lab provides practice in:
 
